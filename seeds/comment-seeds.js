@@ -18,13 +18,13 @@ const commentData = [
     },
     {
         user_id: 4,
-        post_id: 4,
-        comment_body: "Comment4"
+        post_id: 5,
+        comment_body: "Hi Chris Pratt"
     },
     {
         user_id: 5,
-        post_id: 5,
-        comment_body: "Comment5"
+        post_id: 4,
+        comment_body: "Hi Mario"
     },
     {
         user_id: 6,
